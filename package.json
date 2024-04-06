@@ -1,6 +1,6 @@
 {
-  "name": "es5currenncy-converter",
-  "version": "1.0.0",
+  "name": "es5currency-converter",
+  "version": "1.0.1",
   "description": "this is a simple Currency-Converter Cli application ",
   "main": "index.js",
   "type": "module",
